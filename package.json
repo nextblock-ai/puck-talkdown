@@ -2,6 +2,10 @@
   "name": "puck-talkdown",
   "displayName": "puck-talkdown",
   "description": "Talkdown is a language for LLMs based on Markdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nextblock-ai/puck-talkdown.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.78.0"
